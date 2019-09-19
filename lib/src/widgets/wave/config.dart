@@ -32,12 +32,10 @@ class WaveConfigCustom extends WaveConfig {
   final MaskFilter blur;
 }
 
-// TODO: Implement.
 class RandomConfig extends WaveConfig {
   RandomConfig();
 }
 
-// TODO: Implement.
 class SingleConfig extends WaveConfig {
   SingleConfig();
 }

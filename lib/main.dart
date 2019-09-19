@@ -32,7 +32,6 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
 
     _baseAnimation = AnimationController(
