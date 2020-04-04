@@ -1,16 +1,13 @@
-# site
+# Web with Flutter
 
-A new Flutter project.
+A website made with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A resources to get you started your Web Projects with Flutter:
 
-A few resources to get you started if this is your first Flutter project:
+- [Web Support for Flutter](https://flutter.dev/web)
+- [Building a web application with Flutter](https://flutter.dev/docs/get-started/web)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+See this site online here:
+[Eronildo's Portfolio](http://www.eronildo.com/)
